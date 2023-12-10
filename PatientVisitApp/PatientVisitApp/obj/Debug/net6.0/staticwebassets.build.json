@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FEtV9MXL67+dAoVFPldkQtMHTzKXFcn5T85+PH9gWNA=",
+  "Source": "PatientVisitApp",
+  "BasePath": "_content/PatientVisitApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
