@@ -17,9 +17,11 @@ export const UserItem: React.FC<UserItemProps> = ({ name, icon, onSelect }) => {
           size="large"
           style={{ textTransform: "none" }}
           color="primary"
-          startIcon={icon}
           onClick={onSelect}
         >
+          <Box position={"absolute"} left={10} display={"flex"} justifyContent={"center"}>
+            {icon}
+          </Box>
           {name}
         </Button>
       </Box>
